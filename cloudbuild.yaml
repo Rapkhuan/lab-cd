@@ -26,5 +26,6 @@ images:
 
 substitutions:
   _PROJECT_ID: 'webdev-dockers-511611'
-  options:
+  
+options:
   logging: CLOUD_LOGGING_ONLY
